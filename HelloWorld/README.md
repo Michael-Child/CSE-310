@@ -2,10 +2,7 @@
 
 This is a basic Hello World program. I created this to demostrate the use of VS Code, GitHub, and Python intergrated together.
 
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of creating this softwware was to show that the code runs in python and can be pulled or pushed in the Github respository.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
